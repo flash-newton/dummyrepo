@@ -1,0 +1,21 @@
+node is an environment
+
+__filename
+__dirname
+require
+module
+process
+console
+setIntervel
+setTimeout
+what is a module
+export can be used to share stuff you want globally while the rest remoans local
+exporting modules***
+path.join
+path.basename
+path.sep
+path.resolve
+require('fs')
+http
+request response
+npm i 
